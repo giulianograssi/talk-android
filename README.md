@@ -1,5 +1,9 @@
 # Nextcloud Talk for Android
 
+| Talk Discussions             |  Talk Contacts |  Talk Chat |  Talk Call  |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://lh3.googleusercontent.com/WhdGOj_svjcQAbv6FJ-2XM8hOUFLSeyU-3B_q9mj6bikqpkW5L_xUwOCAauhEFpAMPA=w1440-h620-rw)  |  ![](https://lh3.googleusercontent.com/KNYlRygYlGBmH2S7Jq6qcDYi8Bs-WcM3cxYnpn_RCIOgHY4ZF6h-0cp2UKNcCg6bJKvE=w1440-h620-rw) | ![](https://lh3.googleusercontent.com/GTfigP3CCeBfYtxeXMGIAmNppedszbOhLWENGuSOHYuf-0F-vAv_TeRR7qiXxYQUsA=w1440-h620-rw) | ![](https://lh3.googleusercontent.com/vxwFehTJME3TVfoplaPhhcCTDHxLWhHtRvfDTbfK1VKXFIgq193Qs9PYc0e62rJXfb4=w1440-h620-rw) |
+
 **Video & audio calls through Nextcloud on Android**
 
 Nextcloud Talk is a fully on-premises audio/video and chat communication service. It features web and mobile apps and is designed to offer the highest degree of security while being easy to use.
